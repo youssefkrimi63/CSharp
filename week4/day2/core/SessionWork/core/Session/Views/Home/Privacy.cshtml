@@ -1,0 +1,30 @@
+﻿<h1>@ViewData["Title"]</h1>
+
+<div class="d-flex justify-content-around">
+    <h1>Welcome @Context.Session.GetString("name") 😊</h1>
+    <a  asp-action="Logout" asp-controller="Home" class="btn btn-outline-danger btn-lg " >back</a>
+</div>
+<div class="text-center m-5">
+    <h1>number: @Context.Session.GetInt32("number")</h1>
+</div>
+
+<div class="m-5">
+    <div class="d-flex justify-content-center gap-5 m-5">
+        <form action="/AddOne" method="post">
+            <button class="btn btn-primary btn-lg ">+1</button>
+        </form>
+        <form action="/moinUn" method="post" >
+            <button class="btn btn-warning btn-lg w-200">- 1</button>
+        </form>
+
+    </div>
+    <div class="d-flex justify-content-center gap-5 m-5">
+        <form action="/timesTwo" method="post">
+            <button class="btn btn-danger btn-lg w-200">* 2</button>
+        </form>
+        <form action="/Random"  method="post">
+            <button class="btn btn-info btn-lg">+ random</button>
+        </form>
+
+    </div>
+</div>

@@ -1,0 +1,5 @@
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Core\LINQEruption\obj\Debug\net8.0\LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Core\LINQEruption\obj\Debug\net8.0\LINQEruption.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Core\LINQEruption\obj\Debug\net8.0\LINQEruption.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Core\LINQEruption\obj\Debug\net8.0\LINQEruption.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Core\LINQEruption\obj\Debug\net8.0\LINQEruption.sourcelink.json

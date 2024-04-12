@@ -1,0 +1,88 @@
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.exe
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.deps.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.runtimeconfig.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\scopedcss\bundle\FormSubmission.styles.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\scopedcss\projectbundle\FormSubmission.bundle.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\refint\FormSubmission.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\ref\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\appsettings.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.staticwebassets.runtime.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.exe
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.deps.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.runtimeconfig.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\bin\Debug\net6.0\FormSubmission.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.RazorAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.RazorAssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.sourcelink.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.FormSubmission.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.build.FormSubmission.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FormSubmission.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FormSubmission.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\scopedcss\bundle\FormSubmission.styles.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\scopedcss\projectbundle\FormSubmission.bundle.scp.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\refint\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\FormSubmission.genruntimeconfig.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\Form Submission\FormSubmission\obj\Debug\net6.0\ref\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\appsettings.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\FormSubmission.staticwebassets.runtime.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\FormSubmission.exe
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\FormSubmission.deps.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\FormSubmission.runtimeconfig.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\bin\Debug\net6.0\FormSubmission.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.RazorAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.RazorAssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.sourcelink.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.FormSubmission.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.build.FormSubmission.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FormSubmission.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FormSubmission.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\scopedcss\bundle\FormSubmission.styles.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\scopedcss\projectbundle\FormSubmission.bundle.scp.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\refint\FormSubmission.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\FormSubmission.genruntimeconfig.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week2\Day1\Practice\FormSubmission\obj\Debug\net6.0\ref\FormSubmission.dll

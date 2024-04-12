@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Survey
+
+<form asp-controller="Home" asp-action="CreateSurvey" class="card-body" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Location"></label>
+        <input class="form-control" asp-for="Location">
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Language"></label>
+        <input class="form-control" asp-for="Language">
+        <span asp-validation-for="Language" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Comment"></label>
+        <input class="form-control" asp-for="Comment">
+        <span asp-validation-for="Comment" class="text-danger"></span>
+    </div>
+    <div class="text-end">
+        <button type="submit" class="btn btn-primary w-50">Submit</button>
+    </div>
+</form>

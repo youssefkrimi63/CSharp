@@ -1,0 +1,108 @@
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\DojoWithModel.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\DojoWithModel.exe
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\DojoWithModel.deps.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\DojoWithModel.runtimeconfig.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\bin\Debug\net6.0\DojoWithModel.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\scopedcss\bundle\DojoWithModel.styles.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\scopedcss\projectbundle\DojoWithModel.bundle.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\refint\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\DojoWithModel.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\Dojo Survey With Model\DojoWithModel\obj\Debug\net6.0\ref\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\DojoWithModel.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\DojoWithModel.exe
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\DojoWithModel.deps.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\DojoWithModel.runtimeconfig.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\bin\Debug\net6.0\DojoWithModel.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\scopedcss\bundle\DojoWithModel.styles.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\scopedcss\projectbundle\DojoWithModel.bundle.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\refint\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\DojoWithModel.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Core\Dojo Survey With Validation\DojoWithModel\obj\Debug\net6.0\ref\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\DojoWithModel.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\DojoWithModel.exe
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\DojoWithModel.deps.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\DojoWithModel.runtimeconfig.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\bin\Debug\net6.0\DojoWithModel.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\scopedcss\bundle\DojoWithModel.styles.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\scopedcss\projectbundle\DojoWithModel.bundle.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\refint\DojoWithModel.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\DojoWithModel.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_1\Day_4\Practice\DateValidator\DojoWithModel\obj\Debug\net6.0\ref\DojoWithModel.dll
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\appsettings.json
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\DojoWithModel.staticwebassets.runtime.json
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\DojoWithModel.exe
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\DojoWithModel.deps.json
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\DojoWithModel.runtimeconfig.json
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\DojoWithModel.dll
+C:\Users\Mega-PC\Desktop\Datevalidator\bin\Debug\net6.0\DojoWithModel.pdb
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.RazorAssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\staticwebassets\msbuild.DojoWithModel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\staticwebassets\msbuild.build.DojoWithModel.props
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DojoWithModel.props
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DojoWithModel.props
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\scopedcss\bundle\DojoWithModel.styles.css
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\scopedcss\projectbundle\DojoWithModel.bundle.scp.css
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.dll
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\refint\DojoWithModel.dll
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.pdb
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\DojoWithModel.genruntimeconfig.cache
+C:\Users\Mega-PC\Desktop\Datevalidator\obj\Debug\net6.0\ref\DojoWithModel.dll

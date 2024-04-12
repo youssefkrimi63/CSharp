@@ -1,0 +1,45 @@
+@{
+    Association newAssociation = new()
+            {
+                ProductId = Model.ProductId
+            };
+}
+
+@model Product
+<div>
+    <h1 class="text-center">@Model.Name</h1>
+    <div class="d-flex justify-content-between">
+        <div>
+            <h1>All Categories</h1>
+            @{
+                foreach (Association association in Model.ProductCategoies)
+                {
+                    <h4>@association.Category.Name</h4>
+                }
+            }
+        </div>
+        <div>
+            <h1>Add Categories</h1>
+            <form asp-action="AddAssociation" asp-controller="Home" method="post">
+                <div class="form-group mb-3">
+                    <input type="hidden" name="ProductId" value="@Model.ProductId">
+                    <label>Category</label>
+                    <select name="CategoryId" class="form-control">
+                        @{
+                            foreach (Category category in ViewBag.AllCategories)
+                            {
+                                if (Model.ProductCategoies.Any(c => c.CategoryId != category.CategoryId) || Model.ProductCategoies.Count<=0)
+                                {
+                                    <option value="@category.CategoryId">@category.Name</option>
+                                }
+                            }
+                        }
+                    </select>
+                </div>
+                <button class="btn btn-outline-danger">Add Association</button>
+            </form>
+
+        </div>
+
+    </div>
+</div>

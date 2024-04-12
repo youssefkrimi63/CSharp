@@ -1,0 +1,8 @@
+﻿<nav class="p-3 d-flex justify-content-between border-primary shadow">
+    <h2 class="fst-italic">@Context.Session.GetString("username")</h2>
+    <form asp-action="Logout" method="post">
+        <button class="btn btn-danger">Logout</button>
+    </form>
+</nav>
+
+<div><h1>Success!</h1></div>

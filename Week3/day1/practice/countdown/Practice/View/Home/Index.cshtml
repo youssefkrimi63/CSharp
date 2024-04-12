@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    @{
+        DateTime endDate = new DateTime(2023, 12, 25, 7, 00, 00);
+        TimeSpan difference = endDate - DateTime.Now;
+    }
+    <div class="timecards">
+        <div class="card">
+            <h2>Start Time</h2>
+            <h3>@DateTime.Now.ToString("MMMM dd, yyyy h:mm tt")</h3>
+        </div>
+        <div class="card">
+            <h2>End Time</h2>
+            <h3>@endDate.ToString("MMMM dd, yyyy h:mm tt")</h3>
+        </div>
+    </div>
+    <div class="remaining">
+        <h2>Time Remaining</h2>
+        <h3>@difference.Days day(s), @difference.Hours hour(s), @difference.Minutes minute(s) remaining</h3>
+    </div>
+</body>
+</html>

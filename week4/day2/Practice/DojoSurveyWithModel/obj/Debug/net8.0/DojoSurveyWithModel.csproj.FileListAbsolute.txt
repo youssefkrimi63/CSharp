@@ -1,0 +1,8 @@
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.RazorAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.RazorAssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day5\Practice\DojoSurveyWithModel\obj\Debug\net8.0\DojoSurveyWithModel.sourcelink.json

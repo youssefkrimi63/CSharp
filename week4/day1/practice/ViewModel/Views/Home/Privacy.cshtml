@@ -1,0 +1,15 @@
+﻿@model int[]
+@{
+    ViewData["Title"] = "Here are some numbers ";
+}
+<h1>@ViewData["Title"]</h1>
+
+@{
+    foreach (int num in Model)
+    {
+        <div class="d-flex ">
+            <li class="btn btn-outline-primary">Num : @num</li>
+
+        </div>
+    }
+}

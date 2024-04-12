@@ -1,0 +1,51 @@
+@model Dish
+<div class="text-center">
+    <h1 class="display-4">Edit @Model.DishName</h1>
+    <div class="d-flex justify-content-center gap-3 m-3">
+        <a href="/"> HOME</a>
+        <a>||</a>
+        <a href="/Home/Privacy">Add Dish</a>
+    </div>
+
+
+    <form asp-action="UpdateDish" asp-controller="Home" method="post">
+        <input type="hidden" asp-for="@Model.DishId">
+        <div>
+            <div class="form-group mb-3">
+                <label asp-for="ChefName"></label>
+                <input asp-for="ChefName" class="form-control">
+                <span class="text-danger" asp-validation-for="ChefName"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="DishName"></label>
+                <input asp-for="DishName" class="form-control">
+                <span class="text-danger" asp-validation-for="DishName"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Calories"></label>
+                <input asp-for="Calories" class="form-control">
+                <span class="text-danger" asp-validation-for="Calories"></span>
+            </div>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Tostiness"></label>
+            <select asp-for="Tostiness" id="">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            <span class="text-danger" asp-validation-for="Tostiness"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Description"></label>
+            <textarea asp-for="Description" id="" cols="20" rows="10" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="Description"></span>
+        </div>
+        <button class="btn btn-info w-100"> 🥣 Edit Your Dish 🥣</button>
+    </form>
+</div>
+</div>
+</div>

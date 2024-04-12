@@ -1,0 +1,48 @@
+﻿﻿{
+    ViewData["Title"] = "Home Page";
+}
+@model User
+<div class="text-center">
+    <h1 class="display-4 mb-5">Login - Register App </h1>
+    <div class="d-flex justify-content-between">
+        <div class="card shadow col-5 p-2">
+            <div class="card-header h2">Register</div>
+            <div class="card-body">
+                <form asp-action="Register" asp-controller="Home" method="post">
+                    <div class="form-group mb-3 ">
+                        <label asp-for="Username"></label>
+                        <input asp-for="Username" class="form-control">
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" class="form-control">
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Password"></label>
+                        <input asp-for="Password" class="form-control">
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="ConfirmPW"></label>
+                        <input asp-for="ConfirmPW" class="form-control">
+                        <span asp-validation-for="ConfirmPW" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3 d-flex justify-content-center gap-3">
+                        <label asp-for="IsSubscribed"></label>
+                        <input asp-for="IsSubscribed" class="form-check">
+                        <span asp-validation-for="IsSubscribed" class="text-danger"></span>
+                    </div>
+                    <button class="btn btn-primary w-100"> Register</button>
+                </form>
+            </div>
+        </div>
+        <div class="card shadow col-5 p-2">
+            <div class="card-header h2">Login</div>
+            <div class="card-body">
+                @await Html.PartialAsync("_Login")
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="card text-center w-75 ml-3" style="margin-left: 190px; height:700px;">
+    <h1 class="display-4">Enter Your Information</h1>
+    <form asp-controller="Home" asp-action="CreateUser" method="post">
+        <div class="mb-3">
+            <label asp-for="name" class="form-label"></label>
+            <input asp-for="name" type="text" class="form-control">
+            <span asp-validation-for="name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="email" class="form-label"></label>
+            <input asp-for="email" type="text" class="form-control">
+            <span asp-validation-for="email" class="text-danger"></span>
+        </div>
+        <div class="mb-3 form-check">
+            <label asp-for="date" class="form-label"></label>
+            <input asp-for="date" type="date" class="form-control">
+            <span asp-validation-for="date" class="text-danger"></span>
+        </div>
+        <div class="mb-3 form-check">
+            <label asp-for="password" class="form-label"></label>
+            <input asp-for="password" type="password" class="form-control">
+            <span asp-validation-for="password" class="text-danger"></span>
+        </div>
+        <div class="mb-3 form-check">
+            <label asp-for="oddNumber" class="form-label"></label>
+            <input asp-for="oddNumber" type="number" class="form-control">
+            <span asp-validation-for="oddNumber" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-outline-info ">Submit</button>
+    </form>
+</div>

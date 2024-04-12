@@ -1,0 +1,15 @@
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\bin\Debug\net6.0\Hello.Net.exe
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\bin\Debug\net6.0\Hello.Net.deps.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\bin\Debug\net6.0\Hello.Net.runtimeconfig.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\bin\Debug\net6.0\Hello.Net.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\bin\Debug\net6.0\Hello.Net.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.csproj.AssemblyReference.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\refint\Hello.Net.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\Hello.Net.genruntimeconfig.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day1\Practice\hello.Net!\Hello.Net\obj\Debug\net6.0\ref\Hello.Net.dll

@@ -1,0 +1,15 @@
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\bin\Debug\net6.0\RideMaker.exe
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\bin\Debug\net6.0\RideMaker.deps.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\bin\Debug\net6.0\RideMaker.runtimeconfig.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\bin\Debug\net6.0\RideMaker.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\bin\Debug\net6.0\RideMaker.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.csproj.AssemblyReference.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\refint\RideMaker.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\RideMaker.genruntimeconfig.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\RideMaker\obj\Debug\net6.0\ref\RideMaker.dll

@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.timecards
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.card {
+    text-align: center;
+    width: 400px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.remaining {
+    text-align: center;
+}

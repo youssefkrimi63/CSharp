@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Here are some delicious foods!</h1>
+    @{
+        List<string> Foods = new List<string>();
+            
+            Foods.Add("Apple Pie");
+            Foods.Add("Pizza");
+            Foods.Add("Cinnamon Rolls");
+            Foods.Add("Lasagna");
+            Foods.Add("Donuts");
+            Foods.Add("Chocolate Cake");
+            Foods.Add("Burritos");
+        
+        foreach(string f in Foods)
+        {
+            if(f[0] == 'C')
+            {
+                <h4 style="color:red;">@f</h4>
+            } else {
+                <h3>@f</h3>
+            }
+        }
+    }
+</body>    

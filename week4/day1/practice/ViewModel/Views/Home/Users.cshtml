@@ -1,0 +1,8 @@
+@model List<string>
+
+    <h1>Here is a list of Users</h1>
+    @{
+        foreach(string users in @Model){
+            <li>@users</li>
+            }
+    }

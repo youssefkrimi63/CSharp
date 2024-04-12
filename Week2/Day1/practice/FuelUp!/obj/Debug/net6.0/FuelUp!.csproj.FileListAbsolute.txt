@@ -1,0 +1,15 @@
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\bin\Debug\net6.0\FuelUp!.exe
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\bin\Debug\net6.0\FuelUp!.deps.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\bin\Debug\net6.0\FuelUp!.runtimeconfig.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\bin\Debug\net6.0\FuelUp!.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\bin\Debug\net6.0\FuelUp!.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.csproj.AssemblyReference.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\refint\FuelUp!.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\FuelUp!.genruntimeconfig.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week1\Day2\Practice\FuelUp!\obj\Debug\net6.0\ref\FuelUp!.dll

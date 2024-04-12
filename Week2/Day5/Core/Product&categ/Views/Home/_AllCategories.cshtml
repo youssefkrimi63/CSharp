@@ -1,0 +1,12 @@
+<div class="border-start border-info" style="padding-left: 250px;" >
+    <h1>All Categories</h1>
+    @{
+        foreach (Category category in ViewBag.AllCategories)
+
+        {
+            <a asp-action="OneCategorie" asp-controller="Home" asp-route-categoryId="@category.CategoryId">
+                <h4>@category.Name</h4>
+            </a>
+        }
+    }
+</div>

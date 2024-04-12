@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Dish>
+<div>
+    <h1 class="display-4 text-center">Welcome To CRUDelicious</h1>
+    <div class="d-flex justify-content-center gap-3">
+        <a href="/"> HOME</a>
+        <a>||</a>
+        <a href="/Home/Privacy">Add Dish</a>
+    </div>
+
+    <h3 class=" border-bottom border-primary m-5"> Check out some recent dishes</h3>
+
+    <div>
+        @{
+            foreach (Dish dish in Model)
+            {
+                <a href=""></a>
+                <h3><a class="btn btn-warning" asp-action="ViewOne" asp-route-DishId="@dish.DishId"> @dish.DishName</a> By
+                    @dish.ChefName</h3>
+            }
+        }
+    </div>
+</div>

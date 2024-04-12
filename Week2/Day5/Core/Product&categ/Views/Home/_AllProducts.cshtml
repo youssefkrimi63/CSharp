@@ -1,0 +1,10 @@
+
+<div class="border-start border-info" style="padding-left: 250px;">
+    <h1>All Products</h1>
+    @{
+        foreach(Product product in ViewBag.AllProducts)
+        {
+          <a asp-action="OneProduct" asp-controller="Home" asp-route-productId="@product.ProductId"><h4>@product.Name</h4></a> 
+        }
+    }
+</div>
