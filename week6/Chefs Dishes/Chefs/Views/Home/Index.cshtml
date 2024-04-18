@@ -1,0 +1,31 @@
+﻿@model List<Chef>
+
+<h1 class="Text-center border-bottom border-primary m-5">Check out our roster of chefs</h1>
+<table class="table table-success table-striped">
+    <thead>
+        <th>Name </th>
+        <th>Last name </th>
+        <th>Age</th>
+        <th># of Dishes</th>
+    </thead>
+    @{
+        foreach (Chef chef in Model)
+
+        {
+            <tbody>
+                <tr>
+                    <td>@chef.Firstname</td>
+                    <td>@chef.Lastname</td>
+                    <td>@{
+                            int age = DateTime.Now.Year - chef.DateOfBirth.Year-1;
+                            
+                            <p>@age years</p>
+
+                        }
+                    </td>
+                    <td>@chef.AllDishes.Count</td>
+                </tr>
+            </tbody>
+        }
+    }
+</table>

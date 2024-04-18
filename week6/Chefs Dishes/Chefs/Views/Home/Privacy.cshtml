@@ -1,0 +1,26 @@
+﻿@model List<Dish>
+
+<h1 class="Text-center border-bottom border-primary m-5">Yum ! Check out our Tasty Dishes !</h1>
+
+<table class="table table-success table-striped">
+    <thead>
+        <th>Name </th>
+        <th>Chef </th>
+        <th>Tostiness</th>
+        <th>Calories</th>
+    </thead>
+    @{
+        foreach (Dish dish in Model)
+
+        {
+            <tbody>
+                <tr>
+                    <td>@dish.Name</td>
+                    <td>@dish.Creator.Firstname</td>
+                    <td>@dish.Tostiness</td>
+                    <td>@dish.Calories</td>
+                </tr>
+            </tbody>
+        }
+    }
+</table>

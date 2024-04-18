@@ -1,0 +1,45 @@
+@model Dish
+<h1 class="Text-center border-bottom border-primary m-5">Add a Dish</h1>
+
+
+<form asp-action="CreateDish" asp-controller="Home" method="post">
+    <div class="d-flex justify-content-between m-2">
+        <div>
+            <div class="form-group mb-3">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control">
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Calories"></label>
+                <input asp-for="Calories" class="form-control">
+                <span class="text-danger" asp-validation-for="Calories"></span>
+            </div>
+        </div>
+        <div class="form-group mb-3">
+            <label>Chef Name</label>
+            <select asp-for="ChefId" name="ChefId" class="form-control">
+                @{
+                    foreach (Chef chef in ViewBag.chefs)
+
+                    {
+                        <option value="@chef.ChefId">@chef.Firstname</option>
+                    }
+                }
+            </select>
+            <span class="text-danger" asp-validation-for="ChefId"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Tostiness"></label>
+            <select asp-for="Tostiness" name="Tostiness" id="">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            <span class="text-danger" asp-validation-for="Tostiness"></span>
+        </div>
+    </div>
+    <button class="btn btn-outline-danger w-25 mt-3" style="margin-left: 500px;"> Add Dish 🍕</button>
+</form>

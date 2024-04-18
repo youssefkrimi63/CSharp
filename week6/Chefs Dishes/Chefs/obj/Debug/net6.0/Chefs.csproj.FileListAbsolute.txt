@@ -1,0 +1,111 @@
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Chefs.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Chefs.exe
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Chefs.deps.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Chefs.runtimeconfig.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Chefs.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Chefs.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\scopedcss\bundle\Chefs.styles.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\scopedcss\projectbundle\Chefs.bundle.scp.css
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\refint\Chefs.dll
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.pdb
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\Chefs.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\DEV\Coding-Dojo\CSharpStack\week_2\Day_4\Core\Chefs 'N Dishes\Chefs\obj\Debug\net6.0\ref\Chefs.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\appsettings.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.staticwebassets.runtime.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.exe
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.deps.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.runtimeconfig.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.AssemblyReference.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.AssemblyInfoInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.AssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.CoreCompileInputs.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.RazorAssemblyInfo.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.RazorAssemblyInfo.cs
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.sourcelink.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets\msbuild.Chefs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets\msbuild.build.Chefs.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chefs.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chefs.props
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\scopedcss\bundle\Chefs.styles.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\scopedcss\projectbundle\Chefs.bundle.scp.css
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.CopyComplete
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\refint\Chefs.dll
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.pdb
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.genruntimeconfig.cache
+C:\Users\Mega-PC\Desktop\Coding Dojo\CSharp\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\ref\Chefs.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\appsettings.json
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.staticwebassets.runtime.json
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.exe
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.deps.json
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.runtimeconfig.json
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Chefs.pdb
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.AssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.RazorAssemblyInfo.cache
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.RazorAssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\scopedcss\bundle\Chefs.styles.css
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\scopedcss\projectbundle\Chefs.bundle.scp.css
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.csproj.CopyComplete
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\refint\Chefs.dll
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.pdb
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\Chefs.genruntimeconfig.cache
+C:\Users\youss\OneDrive\Desktop\Week3\Day3\Core\Chefs Dishes\Chefs\obj\Debug\net6.0\ref\Chefs.dll

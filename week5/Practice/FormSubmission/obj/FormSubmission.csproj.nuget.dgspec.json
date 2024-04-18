@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mega-PC\\Desktop\\Coding Dojo\\CSharp\\Week2\\Day1\\Practice\\FormSubmission\\FormSubmission.csproj": {}
+    "C:\\Users\\youss\\OneDrive\\Desktop\\CSharp\\week5\\Practice\\FormSubmission\\FormSubmission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mega-PC\\Desktop\\Coding Dojo\\CSharp\\Week2\\Day1\\Practice\\FormSubmission\\FormSubmission.csproj": {
+    "C:\\Users\\youss\\OneDrive\\Desktop\\CSharp\\week5\\Practice\\FormSubmission\\FormSubmission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mega-PC\\Desktop\\Coding Dojo\\CSharp\\Week2\\Day1\\Practice\\FormSubmission\\FormSubmission.csproj",
+        "projectUniqueName": "C:\\Users\\youss\\OneDrive\\Desktop\\CSharp\\week5\\Practice\\FormSubmission\\FormSubmission.csproj",
         "projectName": "FormSubmission",
-        "projectPath": "C:\\Users\\Mega-PC\\Desktop\\Coding Dojo\\CSharp\\Week2\\Day1\\Practice\\FormSubmission\\FormSubmission.csproj",
-        "packagesPath": "C:\\Users\\Mega-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mega-PC\\Desktop\\Coding Dojo\\CSharp\\Week2\\Day1\\Practice\\FormSubmission\\obj\\",
+        "projectPath": "C:\\Users\\youss\\OneDrive\\Desktop\\CSharp\\week5\\Practice\\FormSubmission\\FormSubmission.csproj",
+        "packagesPath": "C:\\Users\\youss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\youss\\OneDrive\\Desktop\\CSharp\\week5\\Practice\\FormSubmission\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mega-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\youss\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
         }
       }
     }
