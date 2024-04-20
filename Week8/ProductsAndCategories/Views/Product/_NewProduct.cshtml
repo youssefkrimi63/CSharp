@@ -1,0 +1,47 @@
+@model Product
+
+<div class="text-center mb-5">
+    <h1 class="display-4">New Product</h1>
+</div>
+
+<form asp-controller="Product" asp-action="CreateProduct" method="POST">
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="ProductName" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="ProductName" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="ProductName"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="Description" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="Description" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="Description"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-5">
+        <div class="col-3">
+            <label asp-for="Price" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="Price" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="Price"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center justify-content-center">
+        <input type="submit" class="btn btn-primary col-3">
+    </div>
+</form>

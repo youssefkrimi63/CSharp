@@ -1,0 +1,59 @@
+@model Wedding
+
+<div>
+    <h1 class="display-4">Plan Your Wedding</h1>
+</div>
+
+<form class="mt-4" asp-controller="Wedding" asp-action="CreateWedding" method="POST">
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="WedderOne" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="WedderOne" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="WedderOne"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="WedderTwo" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="WedderTwo" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="WedderTwo"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="WeddingDate" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="WeddingDate" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="WeddingDate"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-5">
+        <div class="col-3">
+            <label asp-for="WeddingAddress" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="WeddingAddress" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="WeddingAddress"></span>
+        </div>
+    </div>
+
+    <div style="margin-left: 150px;">
+        <button type="submit" class="btn btn-primary" style="width: 120px;">Create</button>
+    </div>
+</form>

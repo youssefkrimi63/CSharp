@@ -1,0 +1,22 @@
+@model List<Category>
+@{
+    ViewData["Title"] = "Category Page";
+    Category newCategory = new Category();
+}
+
+<div class="row justify-content-center">
+    <a class="col-md text-end border-end border-dark text-decoration-none display-5" asp-controller="Product" asp-action="Index">Products</a>
+    <p class="col-md text-decoration-none display-5">Categories</p>
+</div>
+
+<hr>
+
+<div class="row" style="margin-top: 50px;">
+    <div class="col-md border-end border-dark">
+        <partial name="_NewCategory" model="@newCategory"></partial>
+    </div>
+
+    <div class="col-md">
+        <partial name="_Categories"></partial>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+@model List<Category>
+
+<div class="text-center">
+    <h1 class="display-4 mb-4">Existing Categories</h1>
+</div>
+
+<ul class="list-unstyled ms-5">
+    @foreach (Category cat in Model)
+    {
+        <li class="h4 mb-2"><a asp-action="ViewCategory" asp-route-categoryId="@cat.CategoryId">@cat.CategoryName</a></li>
+    }
+</ul>

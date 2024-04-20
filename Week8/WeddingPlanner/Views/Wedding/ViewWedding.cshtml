@@ -1,0 +1,20 @@
+@model Wedding
+
+<div>
+    <h1 class="display-4">@ViewBag.oneWedding.WedderOne and @ViewBag.oneWedding.WedderTwo's Wedding</h1>
+</div>
+
+<div>
+    <h1 class="display-5 ms-5 mt-4" style="font-size: 35px;">Date: @ViewBag.oneWedding.WeddingDate</h1>
+</div>
+
+<div>
+    <h1 class="display-5 ms-5 mt-4" style="font-size: 35px;">Guests:</h1>
+</div>
+
+<ul class="list-unstyled fs-5" style="margin-left: 90px;">
+    @foreach (RSVP guest in ViewBag.oneWedding.Guests)
+    {
+        <li>@guest.User.FirstName @guest.User.LastName</li>
+    }
+</ul>

@@ -1,0 +1,23 @@
+@model Category
+
+<div class="text-center mb-5">
+    <h1 class="display-4">New Category</h1>
+</div>
+
+<form asp-controller="Category" asp-action="CreateCategory" method="POST">
+    <div class="row align-items-center mb-5">
+        <div class="col-3">
+            <label asp-for="CategoryName" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="CategoryName" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="CategoryName"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center justify-content-center">
+        <input type="submit" class="btn btn-primary col-3">
+    </div>
+</form>

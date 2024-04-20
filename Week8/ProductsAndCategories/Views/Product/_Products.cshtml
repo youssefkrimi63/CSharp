@@ -1,0 +1,12 @@
+@model List<Product>
+
+<div class="text-center">
+    <h1 class="display-4 mb-4">Existing Product</h1>
+</div>
+
+<ul class="list-unstyled ms-5">
+    @foreach (Product prod in Model)
+    {
+        <li class="h4 mb-2"><a asp-action="ViewProduct" asp-route-productId="@prod.ProductId">@prod.ProductName</a></li>
+    }
+</ul>

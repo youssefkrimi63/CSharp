@@ -1,0 +1,36 @@
+@model Association
+@{
+    #pragma warning disable CS8618
+    ViewData["Title"] = "Product Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="margin-bottom: 100px;">@ViewBag.oneProduct.ProductName</h1>
+</div>
+
+<div class="row">
+    <div class="col-md">
+        <p style="font-size: 40px;">Categories:</p>
+
+        @foreach (Association ass in ViewBag.oneProduct.ProductCategories)
+        {
+            <h4>@ass.Category.CategoryName</h4>
+        }
+    </div>
+
+    <div class="col-md">
+        <p style="font-size: 30px;">Add Category:</p>
+
+        <form asp-controller="Product" asp-action="AddCategory" asp-route-productId="@ViewBag.oneProduct.ProductId">
+            <select class="form-select" style="width: 300px;" asp-for="CategoryId">
+                <option selected disabled>Select Category</option>
+                @foreach (Category cat in ViewBag.categories)
+                {
+                    <option value="@cat.CategoryId">@cat.CategoryName</option>
+                }
+            </select>
+
+            <input type="submit" class="btn btn-primary mt-4">
+        </form>
+    </div>
+</div>

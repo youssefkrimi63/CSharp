@@ -1,0 +1,67 @@
+@model User
+
+<h1 class="display-4 row my-5">Register</h1>
+
+<form asp-controller="User" asp-action="RegisterUser" method="POST">
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="FirstName" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="FirstName" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="FirstName"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="LastName" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="LastName" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="LastName"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="Email" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="Email" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="Email"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-4">
+        <div class="col-3">
+            <label asp-for="Password" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="Password" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="Password"></span>
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-5">
+        <div class="col-3">
+            <label asp-for="ConfirmPassword" class="form-label lead"></label>
+        </div>
+        <div class="col-auto">
+            <input asp-for="ConfirmPassword" class="form-control">
+        </div>
+        <div class="col-auto">
+            <span asp-validation-for="ConfirmPassword"></span>
+        </div>
+    </div>
+
+    <button class="btn btn-primary col-4">Register</button>
+</form>

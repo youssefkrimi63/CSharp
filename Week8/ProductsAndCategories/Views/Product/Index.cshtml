@@ -1,0 +1,22 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "Product Page";
+    Product newProduct = new Product();
+}
+
+<div class="row justify-content-center">
+    <p class="col-md text-end border-end border-dark text-decoration-none display-5">Products</p>
+    <a class="col-md text-decoration-none display-5" asp-controller="Category" asp-action="Categories">Categories</a>
+</div>
+
+<hr>
+
+<div class="row" style="margin-top: 50px;">
+    <div class="col-md border-end border-dark">
+        <partial name="_NewProduct" model="@newProduct"></partial>
+    </div>
+
+    <div class="col-md">
+        <partial name="_Products"></partial>
+    </div>
+</div>

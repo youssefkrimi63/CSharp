@@ -1,0 +1,67 @@
+@model RSVP
+
+@{
+    #pragma warning disable CS8618
+    ViewData["Title"] = "Dashboard";
+}
+
+<div>
+    <h1 class="display-4">Welcome to Wedding Planner</h1>
+</div>
+
+<table class="table table-striped border border-dark mt-4">
+    <thead>
+        <tr>
+            <th scope="col">Wedding</th>
+            <th scope="col">Date</th>
+            <th scope="col">Guests</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="col">Example</td>
+            <td scope="col">Example</td>
+            <td scope="col">Example</td>
+            <td scope="col">Example</td>
+        </tr>
+        @foreach (Wedding wed in ViewBag.weddings)
+        {
+            <tr>
+                <td scope="col"><a asp-action="ViewWedding" asp-route-weddingId="@wed.WeddingId">@wed.WedderOne & @wed.WedderTwo</a></td>
+                <td scope="col">@wed.WeddingDate</td>
+                <td scope="col">@wed.Guests.Count</td>
+                <td scope="col">
+                    @if (Context.Session.GetInt32("UUID") == wed.UserId)
+                    {
+                        <form asp-controller="Wedding" asp-action="DeleteWedding" asp-route-weddingId="@wed.WeddingId" method="POST">
+                            <button class="btn btn-danger">Delete</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-controller="Wedding" asp-action="RSVP" asp-route-weddingId="@wed.WeddingId" method="POST">
+                            @{
+                                bool alreadyRSVPd = wed.Guests.Any(rsvp => rsvp.UserId == Context.Session.GetInt32("UUID"));
+                            }
+                            <button class="border-0 bg-transparent">
+                                @if (alreadyRSVPd)
+                                {
+                                    <span class="btn btn-warning">Un-RSVP</span>
+                                }
+                                else
+                                {
+                                    <span class="btn btn-success">RSVP</span>
+                                }
+                            </button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="d-grid justify-content-end">
+    <a class="btn btn-primary mt-3" asp-action="NewWedding">New Wedding</a>
+</div>
